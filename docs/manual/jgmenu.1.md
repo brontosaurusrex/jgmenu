@@ -91,7 +91,7 @@ refer to `bar` as the `inner value`.
 
 The following markup is supported in the `description` field
 
-`sep()`
+`^sep()`
 
 :   Define a separator. If an inner value is provided, the separator will
     appear as a title. If no inner value is provided, the separator will simply
